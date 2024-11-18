@@ -1,3 +1,6 @@
 #!/usr/bin/env node
 
-console.log('hi!');
+import {runShellCommand} from '@augment-vir/node';
+
+
+await runShellCommand('echo hi', {hookUpToConsole: true, rejectOnError: true,})

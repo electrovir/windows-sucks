@@ -6,6 +6,7 @@
     "test": "windows-sucks"
   },
   "dependencies": {
+    "@augment-vir/node": "^30.7.0",
     "windows-sucks": "./"
   },
   "license": "(MIT or CC0 1.0)"
