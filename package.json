@@ -2,6 +2,7 @@
   "name": "windows-sucks",
   "private": true,
   "bin": "bin.js",
+  "type": "module",
   "scripts": {
     "test": "windows-sucks"
   },
