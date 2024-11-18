@@ -1,0 +1,12 @@
+{
+  "name": "windows-sucks",
+  "private": true,
+  "bin": "bin.js",
+  "scripts": {
+    "test": "windows-sucks"
+  },
+  "dependencies": {
+    "windows-sucks": "./"
+  },
+  "license": "(MIT or CC0 1.0)"
+}
